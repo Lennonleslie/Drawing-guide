@@ -7,6 +7,8 @@ export default defineUserConfig({
     // "base": "/Drawingguide/",
     // base: "/Drawingguide/",
     // base: "/Drawingguide/",
-    base: '/Drawingguide/',
+    // base: '/Drawingguide/',
+    base:'./',  
+    dest: './dist',  
     // dest: './dest',
 })
