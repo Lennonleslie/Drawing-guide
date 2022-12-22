@@ -1,6 +1,8 @@
 import { defineAsyncComponent } from 'vue'
 
 export const pagesComponents = {
+  // path: /
+  "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"E:/GIT/Drawing-guide/.vuepress/.temp/pages/index.html.vue")),
   // path: /docs/
   "v-147825fb": defineAsyncComponent(() => import(/* webpackChunkName: "v-147825fb" */"E:/GIT/Drawing-guide/.vuepress/.temp/pages/docs/index.html.vue")),
   // path: /404.html

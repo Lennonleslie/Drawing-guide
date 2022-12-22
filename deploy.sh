@@ -3,24 +3,27 @@
 # 确保脚本抛出遇到的错误
 set -e
 
-# 生成静态文件， 
-# npm run docs:build
-# yarn docs:build
+# 生成静态文件
+# npm run build
 pnpm vuepress build
-rm -rf ../Drawing-guide-page/dist/*
-
-# 将build生成的dist目录拷贝至上一层目录中
-cp -rf docs/.vuepress/dist ../Drawing-guide-page/
 
 # 进入生成的文件夹
-cd ../Drawing-guide-page/dist
+cd ./.vuepress/dist
 
-# git初始化，每次初始化不影响推送
+# 如果是发布到自定义域名
+# echo '这里填你需要绑定的域名' > CNAME
+
+
 git init
+git config user.name "lennonleslie"
+git config user.email ""
 git add -A
-git commit -m 'deploy'
-git branch -M main
+git commit -m 'deploy-coding'
 
-# 如果你想要部署到 https://USERNAME.github.io
-# git push -f git@github.com:mengqiuleo/mengqiuleo.github.io.git main
-git push -f git@github.com:Lennonleslie/Drawing-guide-page.git guide-page
+# 如果发布到 https://<USERNAME>.github.io
+# git push -f git@dadifeihong:dadifeihong/dadifeihong.github.io.git master
+
+# 如果发布到 https://<USERNAME>.github.io/<REPO>
+# git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
+git push -f git@github.com:Lennonleslie/Drawing-guide.git main:guide-page
+cd -
