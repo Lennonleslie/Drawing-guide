@@ -6,7 +6,7 @@ export default defineUserConfig({
     description: '这个是一个电子指南',
     // "base": "/Drawingguide/",
     // base: "/Drawingguide/",
-    base: "/Drawingguide/",
-    // base: './',
+    // base: "/Drawingguide/",
+    base: './Drawingguide/',
     // dest: './dest',
 })
