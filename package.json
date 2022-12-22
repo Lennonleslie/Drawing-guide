@@ -1,21 +1,24 @@
 {
-  "name": "Drawingguide",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "deploy": "bash deploy.sh",
-    "upload": "bash uploading.sh"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@vuepress/client": "2.0.0-beta.59",
-    "vue": "^3.2.45",
-    "vuepress": "2.0.0-beta.59"
-  }
+	"name": "drawingguide",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"docs:dev": "vuepress dev docs",
+		"docs:build": "vuepress build docs",
+		"deploy": "bash deploy.sh",
+		"upload": "bash uploading.sh"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@vuepress/client": "2.0.0-beta.59",
+		"sass": "^1.57.1",
+		"sass-loader": "^13.2.0",
+		"vue": "^3.2.45",
+		"vuepress": "2.0.0-beta.59",
+		"webpack": "^5.75.0"
+	}
 }
