@@ -25,5 +25,5 @@ git commit -m 'deploy-coding'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
-git push -f git@github.com:Lennonleslie/Drawing-guide.git main:guide-page
+git push -f git@github.com:Lennonleslie/Drawingguide.git main:guide-page
 cd -
