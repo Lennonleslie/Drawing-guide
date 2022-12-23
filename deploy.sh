@@ -5,7 +5,8 @@ set -e
 
 # 生成静态文件
 # npm run build
-pnpm vuepress build
+# pnpm vuepress build
+pnpm docs:build
 
 # 进入生成的文件夹
 cd ./docs/.vuepress/dist
@@ -27,3 +28,7 @@ git commit -m 'deploy-coding'
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 git push -f git@github.com:Lennonleslie/Drawingguide.git main:guide-page
 cd -
+rm -rf .vuepress
+rm -rf docs/.vuepress/dist
+
+pnpm run upload

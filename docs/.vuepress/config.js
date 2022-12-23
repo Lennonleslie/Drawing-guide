@@ -7,5 +7,5 @@ export default defineUserConfig({
     // base:'/.vuepress/dist/',
     // base: "/Drawingguide/",
     base: '/Drawingguide/',
-    // dest: './dest',
+    // dest: './.vuepress/dist',
 })
