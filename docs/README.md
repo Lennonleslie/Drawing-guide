@@ -33,7 +33,9 @@ footer: 周垚磊 | Copyright © 2019-present
 
 **沟通方式**
 
-> [邮箱](CODESci.Tech@111.com)
+> <a href="mailto:CODESci.Tech@111.com">邮箱</a> 
 >
-> <CODESci.Tech@111.com>
+> <a href="tencent://message/?uin=514800133&Site=&Menu=yes">QQ</a> 
+
+![微信](./picture/mycard.png)
 

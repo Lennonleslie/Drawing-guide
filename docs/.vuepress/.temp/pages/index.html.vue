@@ -11,9 +11,10 @@
 </blockquote>
 <p><strong>沟通方式</strong></p>
 <blockquote>
-<p><a href="CODESci.Tech@111.com">邮箱</a></p>
-<p><a href="mailto:CODESci.Tech@111.com">CODESci.Tech@111.com</a></p>
+<p><a href="mailto:CODESci.Tech@111.com">邮箱</a></p>
+<p><a href="tencent://message/?uin=514800133&Site=&Menu=yes">QQ</a></p>
 </blockquote>
+<p><img src="@source/picture/mycard.png" alt="微信"></p>
 </div></template>
 
 
