@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /favicon.png
-heroText: CODE科技设计指南
+heroText: CODE科道科技设计指南
 actions: 
   - text: 快速上手
     link: /Guide/
@@ -33,9 +33,11 @@ footer: 周垚磊 | Copyright © 2019-present
 
 **沟通方式**
 
+> **有任何文章上的建议和需要沟通补充的地方可以随时与我联系。**
+>
 > <a href="mailto:CODESci.Tech@111.com">邮箱</a> 
 >
 > <a href="tencent://message/?uin=514800133&Site=&Menu=yes">QQ</a> 
-
-![微信](./picture/mycard.png)
+>
+> ![微信](./picture/mycard.png)
 
