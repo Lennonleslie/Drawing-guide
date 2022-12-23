@@ -1,15 +1,15 @@
 ---
 home: true
 heroImage: /favicon.png
-heroText: igloo's document
-actions:
+heroText: CODE科技设计指南
+actions: 
   - text: 快速上手
     link: /Guide/
     type: primary
   - text: 项目简介
     link: /guide/
     type: secondary
-features:
+features: 
 - title: 理念
   details: 把定制模块化。把模块定制化。双向奔赴，最大化定制和模块各自的优点。
 - title: 规范
@@ -19,4 +19,3 @@ features:
 footer: MIT Licensed | Copyright © 2016-present Passwordgloo
 ---
 你好！设计师
-
