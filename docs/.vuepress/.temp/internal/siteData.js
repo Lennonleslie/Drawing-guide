@@ -1,1 +1,1 @@
-export const siteData = JSON.parse("{\"base\":\"/Drawingguide/\",\"lang\":\"zh-CN\",\"title\":\"你好， 设计师 ！\",\"description\":\"这个是一个电子指南\",\"head\":[],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/Drawingguide/\",\"lang\":\"zh-CN\",\"title\":\"科道设计框架\",\"description\":\"板式家具云指南\",\"head\":[],\"locales\":{}}")
