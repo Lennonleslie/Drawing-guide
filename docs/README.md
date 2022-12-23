@@ -16,7 +16,7 @@ features:
   details: 使用生产和标准化为体系下限，定制的需求为体系的上限。
 - title: 优势
   details: 一个图纸从接客户到交付，不重复构图、拆解、重绘。一个订单，所见即所得。
-footer: MIT Licensed | Copyright © 2016-present Passwordgloo
+footer: 周垚磊 | Copyright © 2019-present
 ---
 ---
 # 你好！设计师
@@ -33,5 +33,7 @@ footer: MIT Licensed | Copyright © 2016-present Passwordgloo
 
 **沟通方式**
 
-> [邮箱](lennon.leslie@1111.hotmail.com)
+> [邮箱](CODESci.Tech@111.com)
+>
+> <CODESci.Tech@111.com>
 

@@ -11,7 +11,8 @@
 </blockquote>
 <p><strong>沟通方式</strong></p>
 <blockquote>
-<p><a href="lennon.leslie@1111.hotmail.com">邮箱</a></p>
+<p><a href="CODESci.Tech@111.com">邮箱</a></p>
+<p><a href="mailto:CODESci.Tech@111.com">CODESci.Tech@111.com</a></p>
 </blockquote>
 </div></template>
 
