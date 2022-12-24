@@ -6,6 +6,7 @@ export default defineUserConfig({
     description: '板式家具云指南',
     // base:'/.vuepress/dist/',
     // base: "/Drawingguide/",
-    base: '/Drawingguide/',
+    // base: '/Drawingguide/',
+    base: '/',
     // dest: './.vuepress/dist',
 })
