@@ -29,7 +29,7 @@ git commit -m 'deploy-coding'
 # git push -f git@dadifeihong:dadifeihong/dadifeihong.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-# git push -f git@github.com:Lennonleslie/Drawingguide.git main:guide-page
+git push -f git@github.com:Lennonleslie/Drawingguide.git main:guide-page
 cd -
 # rm -rf .vuepress
 rm -rf docs/.vuepress/dist
