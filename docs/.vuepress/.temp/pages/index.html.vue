@@ -14,7 +14,10 @@
 <p><strong>有任何文章上的建议和需要沟通补充的地方可以随时与我联系。</strong></p>
 <p><a href="mailto:CODESci.Tech@111.com">邮箱</a></p>
 <p><a href="tencent://message/?uin=514800133&Site=&Menu=yes">QQ</a></p>
-<p><img src="@source/picture/mycard.png" alt="微信"></p>
+</blockquote>
+<!-- > ![微信](./picture/mycard.png) -->
+<blockquote>
+<p><img src="http://tva1.sinaimg.cn/large/40a75943gy1h9ew28ghxlj20fr05swgq.jpg" alt="微信"></p>
 </blockquote>
 </div></template>
 

@@ -39,5 +39,7 @@ footer: 周垚磊 | Copyright © 2019-present
 >
 > <a href="tencent://message/?uin=514800133&Site=&Menu=yes">QQ</a> 
 >
-> ![微信](./picture/mycard.png)
+<!-- > ![微信](./picture/mycard.png) -->
+>
+> ![微信](http://tva1.sinaimg.cn/large/40a75943gy1h9ew28ghxlj20fr05swgq.jpg)
 
