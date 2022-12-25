@@ -9,11 +9,11 @@ export default [
       }, 
       {
         text: "发送邮件",
-        link: 'mailto:CODESci.Tech@111.com'
+        link: 'mailto:KODOCODE@outlook.com'
       },
       {
-        text: "CODESci.Tech@111.com",
-        link: 'mailto:CODESci.Tech@111.com'
+        text: "KODOCODE@outlook.com",
+        link: 'mailto:KODOCODE@outlook.com'
       },
     ],
   },
