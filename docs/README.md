@@ -3,9 +3,12 @@ home: true
 # heroImage: /favicon.png
 heroText: CODE科道科技设计指南
 actions: 
+  # - text: 基础入门
+  #   link: /start/
+  #   type: primary
   - text: 基础入门
     link: /start/
-    type: primary
+    type: secondary
   - text: 高手进阶
     link: /promote/
     type: secondary
@@ -20,7 +23,8 @@ footer: 周垚磊 | Copyright © 2019-present
 ---
 ---
 # 你好！设计师
-
+>>> ##  　<font color=#3aa675> 我们非常欢迎你们提出意见和各种问题，请不要见外。 </font>
+>>> ##  　<font color=#3aa675> 可以通过右上角联系作者，或页面下方联系方式！ </font>
 ---
 
 **关于此设计指南**
@@ -34,8 +38,6 @@ footer: 周垚磊 | Copyright © 2019-present
 **沟通方式**
 
 > **有任何文章上的建议和需要沟通补充的地方可以随时与我联系。**
->
->>> ##  　<font color='orange'> 我们非常欢迎你们提出意见和各种问题，请不要见外。 </font>
 >
 ><a href="mailto:CODESci.Tech@111.com">邮箱</a> 
 > 
