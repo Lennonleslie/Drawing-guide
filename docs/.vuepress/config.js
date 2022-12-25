@@ -11,7 +11,7 @@ import sidebar from "./configs/sidebar";
 export default defineUserConfig({
     lang: 'zh-CN',
 
-    title: '科道设计框架',
+    title: '科道科技指南',
 
     description: '板式家具云指南',
 

@@ -3,12 +3,12 @@ home: true
 # heroImage: /favicon.png
 heroText: CODE科道科技设计指南
 actions: 
-  - text: 学习开始
+  - text: 基础入门
     link: /start/
     type: primary
-#   - text: 项目简介
-#     link: /guide/
-#     type: secondary
+  - text: 高手进阶
+    link: /promote/
+    type: secondary
 features: 
 - title: 理念
   details: 把定制模块化。把模块定制化。双向奔赴，最大化定制和模块各自的优点。

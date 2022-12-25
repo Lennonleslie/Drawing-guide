@@ -1,17 +1,26 @@
 export default {
     '/start/': [
       {
-        text: "233入门",
+        text: "基础入门",
         // 是否可折叠
         collapsible: true,
         children: [
-          "", //此目录下的README.md
-          '1',
-          '2',
-          '3',
+          '数学逻辑',
+          '结构解析',
+          '流程详解',
         ],
       },
     ],
+    '/promote/': [
+      {
+        text: "进阶提升",
+        // 是否可折叠
+        collapsible: true,
+        children: [
+        ],
+      },
+    ],
+
     '/tool/': [      
     {
       text: "工具",
