@@ -25,8 +25,10 @@ export default defineUserConfig({
         // 主页链接
         home:"www.kodocode.cn",
 
+        // 导航栏目（右上角）
         navbar: navbar,
 
+        // 
         sidebar: sidebar,
     }),
 })

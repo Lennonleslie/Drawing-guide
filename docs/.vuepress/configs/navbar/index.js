@@ -1,27 +1,21 @@
-/* export default [
-  {
-    text: "主页",
-    link: "",
-  },
-  // {
-  //   text: "联系作者",
-  //   item: [
-  //     { text: "QQ", link: "tencent://message/?uin=514800133&Site=&Menu=yes" },
-  //     { text: "邮箱", link: "mailto:CODESci.Tech@111.com" },
-  //   ]
-  // },
-]; */
-
 export default [
   {
     text: '联系作者',
     children: [
       {
-        text: "qq", 
-        link:'tencent://message/?uin=514800133&Site=&Menu=yes'
+        text: "QQ/TIM", 
+        link:''
+        // link:'tencent://message/?uin=514800133&Site=&Menu=yes'
+      },      {
+        text: "514800133", 
+        link:''
       },
       {
-        text: "邮箱", 
+        text: "发送邮件", 
+        link:'mailto:CODESci.Tech@111.com'
+      },
+      {
+        text: "CODESci.Tech@111.com", 
         link:'mailto:CODESci.Tech@111.com'
       },
     ],

@@ -2,10 +2,10 @@
 home: true
 # heroImage: /favicon.png
 heroText: CODE科道科技设计指南
-# actions: 
-#   - text: 快速上手
-#     link: /Guide/
-#     type: primary
+actions: 
+  - text: 学习开始
+    link: /基础入门/
+    type: primary
 #   - text: 项目简介
 #     link: /guide/
 #     type: secondary
