@@ -1,40 +1,28 @@
 export default {
-  "./": [
+    '/start/': [
+      {
+        text: "233入门",
+        // 是否可折叠
+        collapsible: true,
+        children: [
+          "", //此目录下的README.md
+          '1',
+          '2',
+          '3',
+        ],
+      },
+    ],
+    '/tool/': [      
     {
-      text: "基础入门",
-      children: ["/README.md"],
-    },
-    {
-      text: "CentOS",
-      collapsible: true,
-      children: [
-        "/CentOS/CentOS 显示欢迎语.md",
-      ],
-    },
-    {
-      text: "Web",
-      collapsible: true,
-      children: [
-        "/Web/CSS 禁止文本选中.md",
-      ],
-    },
-    {
-      text: "游戏",
+      text: "工具",
       collapsible: true,
       children: [
         {
-          text: "Cocos",
-          children: ["/游戏/Cocos/Cocos 网络请求.md"],
+          text: "电脑工具",
+          children: ["常用电脑工具.md"],
         },
-        "/游戏/Phaser 游戏引擎中场景的生命周期.md",
+        "设计常用工具.md",
       ],
     },
-    {
-      text: "其他",
-      collapsible: true,
-      children: [
-        "/其他/给 Promise 实现 finally 方法.md",
-      ],
-    },
-  ],
+    ],
 };

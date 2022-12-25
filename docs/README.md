@@ -4,7 +4,7 @@ home: true
 heroText: CODE科道科技设计指南
 actions: 
   - text: 学习开始
-    link: /基础入门/
+    link: /start/
     type: primary
 #   - text: 项目简介
 #     link: /guide/
@@ -35,11 +35,13 @@ footer: 周垚磊 | Copyright © 2019-present
 
 > **有任何文章上的建议和需要沟通补充的地方可以随时与我联系。**
 >
-> <a href="mailto:CODESci.Tech@111.com">邮箱</a> 
+>>> ##  　<font color='orange'> 我们非常欢迎你们提出意见和各种问题，请不要见外。 </font>
 >
-> <a href="tencent://message/?uin=514800133&Site=&Menu=yes">QQ</a> 
->
-<!-- > ![微信](./picture/mycard.png) -->
->
-> ![微信](http://tva1.sinaimg.cn/large/40a75943gy1h9ew28ghxlj20fr05swgq.jpg)
+><a href="mailto:CODESci.Tech@111.com">邮箱</a> 
+> 
+><a href="tencent://message/?uin=514800133&Site=&Menu=yes">QQ</a> 
+> 
+><!-- > ![微信](./picture/mycard.png) -->
+> 
+>![微信](http://tva1.sinaimg.cn/large/40a75943gy1h9ew28ghxlj20fr05swgq.jpg)
 

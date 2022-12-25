@@ -22,8 +22,6 @@ export default defineUserConfig({
     // 主题配置部分
     // https://v2.vuepress.vuejs.org/zh/reference/default-theme/config.html#colormode
     theme: defaultTheme({
-        // 主页链接
-        home:"www.kodocode.cn",
 
         // 导航栏目（右上角）
         navbar: navbar,

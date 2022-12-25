@@ -3,20 +3,30 @@ export default [
     text: '联系作者',
     children: [
       {
-        text: "QQ/TIM", 
-        link:''
+        text: "QQ/TIM:  514800133",
+        link: '/'
         // link:'tencent://message/?uin=514800133&Site=&Menu=yes'
-      },      {
-        text: "514800133", 
-        link:''
+      }, 
+      {
+        text: "发送邮件",
+        link: 'mailto:CODESci.Tech@111.com'
       },
       {
-        text: "发送邮件", 
-        link:'mailto:CODESci.Tech@111.com'
+        text: "CODESci.Tech@111.com",
+        link: 'mailto:CODESci.Tech@111.com'
+      },
+    ],
+  },
+  {
+    text: '快捷链接',
+    children: [
+      {
+        text: "官网",
+        link: 'https://www.kodocode.cn/'
       },
       {
-        text: "CODESci.Tech@111.com", 
-        link:'mailto:CODESci.Tech@111.com'
+        text: "DS王石",
+        link: 'https://ds.wongshek.cn/'
       },
     ],
   }

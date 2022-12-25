@@ -12,11 +12,14 @@
 <p><strong>沟通方式</strong></p>
 <blockquote>
 <p><strong>有任何文章上的建议和需要沟通补充的地方可以随时与我联系。</strong></p>
+<blockquote>
+<blockquote>
+<h2 id="我们非常欢迎你们提出意见和各种问题-请不要见外。" tabindex="-1"><a class="header-anchor" href="#我们非常欢迎你们提出意见和各种问题-请不要见外。" aria-hidden="true">#</a> <font color='orange'> 我们非常欢迎你们提出意见和各种问题，请不要见外。 </font></h2>
+</blockquote>
+</blockquote>
 <p><a href="mailto:CODESci.Tech@111.com">邮箱</a></p>
 <p><a href="tencent://message/?uin=514800133&Site=&Menu=yes">QQ</a></p>
-</blockquote>
 <!-- > ![微信](./picture/mycard.png) -->
-<blockquote>
 <p><img src="http://tva1.sinaimg.cn/large/40a75943gy1h9ew28ghxlj20fr05swgq.jpg" alt="微信"></p>
 </blockquote>
 </div></template>
