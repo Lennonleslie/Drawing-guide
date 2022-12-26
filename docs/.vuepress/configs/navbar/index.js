@@ -4,7 +4,7 @@ export default [
     children: [
       {
         text: "基础入门",
-        link: '/start/'
+        link: '/start/初步了解.md'
       },
       {
         text: "进阶提升",

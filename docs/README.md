@@ -7,7 +7,7 @@ actions:
   #   link: /start/
   #   type: primary
   - text: 基础入门
-    link: /start/
+    link: /start/初步了解.md
     type: secondary
   - text: 高手进阶
     link: /promote/
