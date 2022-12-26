@@ -1,11 +1,22 @@
 export default {
+  '/backend-data/': [
+    {
+      text: "后台数据",
+      // 是否可折叠
+      // collapsible: true,
+      children: [
+        '数学逻辑',
+      ],
+    },
+  ],
     '/start/': [
       {
         text: "基础入门",
         // 是否可折叠
         // collapsible: true,
         children: [
-          '数学逻辑',
+          '数据原理',
+          '初步了解',
           '结构解析',
           '流程详解',
         ],
