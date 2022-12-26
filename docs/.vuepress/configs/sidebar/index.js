@@ -3,7 +3,7 @@ export default {
       {
         text: "基础入门",
         // 是否可折叠
-        collapsible: true,
+        // collapsible: true,
         children: [
           '数学逻辑',
           '结构解析',
