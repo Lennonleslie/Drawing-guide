@@ -1,5 +1,18 @@
 export default [
   {
+    text: '学习导航',
+    children: [
+      {
+        text: "基础入门",
+        link: '/start/'
+      },
+      {
+        text: "进阶提升",
+        link: '/promote/'
+      },
+    ],
+  },
+  {
     text: '联系作者',
     children: [
       {
