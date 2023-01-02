@@ -1,10 +1,10 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /promote/
-  "v-c95ddb30": () => import(/* webpackChunkName: "v-c95ddb30" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/index.html.js").then(({ data }) => data),
   // path: /backend-data/%E6%95%B0%E5%AD%A6%E9%80%BB%E8%BE%91.html
   "v-51fa551b": () => import(/* webpackChunkName: "v-51fa551b" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/backend-data/数学逻辑.html.js").then(({ data }) => data),
+  // path: /promote/
+  "v-c95ddb30": () => import(/* webpackChunkName: "v-c95ddb30" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/index.html.js").then(({ data }) => data),
   // path: /start/
   "v-d72a4774": () => import(/* webpackChunkName: "v-d72a4774" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/index.html.js").then(({ data }) => data),
   // path: /start/%E5%88%9D%E6%AD%A5%E4%BA%86%E8%A7%A3.html

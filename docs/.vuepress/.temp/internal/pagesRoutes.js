@@ -1,7 +1,7 @@
 export const pagesRoutes = [
   ["v-8daa1a0e","/",{"title":"你好！设计师"},["/index.html","/README.md"]],
-  ["v-c95ddb30","/promote/",{"title":""},["/promote/index.html","/promote/readme.md"]],
   ["v-51fa551b","/backend-data/%E6%95%B0%E5%AD%A6%E9%80%BB%E8%BE%91.html",{"title":""},["/backend-data/数学逻辑.html","/backend-data/%E6%95%B0%E5%AD%A6%E9%80%BB%E8%BE%91","/backend-data/数学逻辑.md","/backend-data/%E6%95%B0%E5%AD%A6%E9%80%BB%E8%BE%91.md"]],
+  ["v-c95ddb30","/promote/",{"title":""},["/promote/index.html","/promote/readme.md"]],
   ["v-d72a4774","/start/",{"title":""},["/start/index.html","/start/readme.md"]],
   ["v-e45960aa","/start/%E5%88%9D%E6%AD%A5%E4%BA%86%E8%A7%A3.html",{"title":""},["/start/初步了解.html","/start/%E5%88%9D%E6%AD%A5%E4%BA%86%E8%A7%A3","/start/初步了解.md","/start/%E5%88%9D%E6%AD%A5%E4%BA%86%E8%A7%A3.md"]],
   ["v-a32684f8","/start/%E6%95%B0%E6%8D%AE%E5%8E%9F%E7%90%86.html",{"title":"数据原理"},["/start/数据原理.html","/start/%E6%95%B0%E6%8D%AE%E5%8E%9F%E7%90%86","/start/数据原理.md","/start/%E6%95%B0%E6%8D%AE%E5%8E%9F%E7%90%86.md"]],
