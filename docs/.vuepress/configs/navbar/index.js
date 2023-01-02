@@ -3,6 +3,10 @@ export default [
     text: '学习导航',
     children: [
       {
+        text: "理论基础",
+        link: '/theory/'
+      },
+      {
         text: "基础入门",
         link: '/start/初步了解.md'
       },
@@ -19,7 +23,7 @@ export default [
         text: "QQ/TIM:  514800133",
         link: '/'
         // link:'tencent://message/?uin=514800133&Site=&Menu=yes'
-      }, 
+      },
       {
         text: "发送邮件",
         link: 'mailto:KODOCODE@outlook.com'

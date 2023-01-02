@@ -19,6 +19,8 @@ export const pagesComponents = {
   "v-504f3feb": defineAsyncComponent(() => import(/* webpackChunkName: "v-504f3feb" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/王石拆单功能.html.vue")),
   // path: /start/%E7%BB%93%E6%9E%84%E8%A7%A3%E6%9E%90.html
   "v-79f0d251": defineAsyncComponent(() => import(/* webpackChunkName: "v-79f0d251" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/结构解析.html.vue")),
+  // path: /theory/
+  "v-1993c2d1": defineAsyncComponent(() => import(/* webpackChunkName: "v-1993c2d1" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/index.html.vue")),
   // path: /tool/
   "v-1559ca3e": defineAsyncComponent(() => import(/* webpackChunkName: "v-1559ca3e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/tool/index.html.vue")),
   // path: /404.html
