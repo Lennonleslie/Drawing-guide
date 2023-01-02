@@ -1,11 +1,14 @@
 ---
 home: true
 # heroImage: /favicon.png
-heroText: CODE科道科技设计指南
+heroText: 科道科技设计指南
 actions: 
   # - text: 基础入门
   #   link: /start/
   #   type: primary
+  - text: 理论基础
+    link: /stheory/
+    type: secondary
   - text: 基础入门
     link: /start/初步了解.md
     type: secondary
