@@ -2,6 +2,7 @@ export const pagesRoutes = [
   ["v-8daa1a0e","/",{"title":"你好！设计师"},["/index.html","/README.md"]],
   ["v-79f8b8a2","/backend-data/vuepressMarkdown%E8%AF%AD%E6%B3%95.html",{"title":""},["/backend-data/vuepressMarkdown语法.html","/backend-data/vuepressMarkdown%E8%AF%AD%E6%B3%95","/backend-data/vuepressMarkdown语法.md","/backend-data/vuepressMarkdown%E8%AF%AD%E6%B3%95.md"]],
   ["v-51fa551b","/backend-data/%E6%95%B0%E5%AD%A6%E9%80%BB%E8%BE%91.html",{"title":""},["/backend-data/数学逻辑.html","/backend-data/%E6%95%B0%E5%AD%A6%E9%80%BB%E8%BE%91","/backend-data/数学逻辑.md","/backend-data/%E6%95%B0%E5%AD%A6%E9%80%BB%E8%BE%91.md"]],
+  ["v-418c48f3","/promote/CAD%E7%8E%8B%E7%9F%B3%E6%8B%86%E5%8D%95%E5%8A%9F%E8%83%BD.html",{"title":""},["/promote/CAD王石拆单功能.html","/promote/CAD%E7%8E%8B%E7%9F%B3%E6%8B%86%E5%8D%95%E5%8A%9F%E8%83%BD","/promote/CAD王石拆单功能.md","/promote/CAD%E7%8E%8B%E7%9F%B3%E6%8B%86%E5%8D%95%E5%8A%9F%E8%83%BD.md"]],
   ["v-15adcecc","/promote/DS%E7%8E%8B%E7%9F%B3%E6%8B%86%E5%8D%95%E5%8A%9F%E8%83%BD.html",{"title":""},["/promote/DS王石拆单功能.html","/promote/DS%E7%8E%8B%E7%9F%B3%E6%8B%86%E5%8D%95%E5%8A%9F%E8%83%BD","/promote/DS王石拆单功能.md","/promote/DS%E7%8E%8B%E7%9F%B3%E6%8B%86%E5%8D%95%E5%8A%9F%E8%83%BD.md"]],
   ["v-c95ddb30","/promote/",{"title":""},["/promote/index.html","/promote/readme.md"]],
   ["v-d72a4774","/start/",{"title":""},["/start/index.html","/start/readme.md"]],
