@@ -1,13 +1,9 @@
 <template><div><hr>
 <h1 id="你好-设计师" tabindex="-1"><a class="header-anchor" href="#你好-设计师" aria-hidden="true">#</a> 你好！设计师</h1>
-<blockquote>
-<blockquote>
-<blockquote>
-<h2 id="我们非常欢迎你们提出意见和各种问题-请不要见外。" tabindex="-1"><a class="header-anchor" href="#我们非常欢迎你们提出意见和各种问题-请不要见外。" aria-hidden="true">#</a> <font color=#3aa675> 我们非常欢迎你们提出意见和各种问题，请不要见外。 </font></h2>
-<h2 id="可以通过右上角联系作者-或页面下方联系方式" tabindex="-1"><a class="header-anchor" href="#可以通过右上角联系作者-或页面下方联系方式" aria-hidden="true">#</a> <font color=#3aa675> 可以通过右上角联系作者，或页面下方联系方式！ </font></h2>
-</blockquote>
-</blockquote>
-</blockquote>
+<div class="custom-container tip"><p class="custom-container-title">TIP</p>
+<p>我们非常欢迎你们提出意见和各种问题，请不要见外。
+可以通过右上角联系作者，或页面下方联系方式！</p>
+</div>
 <hr>
 <p><strong>关于此设计指南</strong></p>
 <blockquote>
