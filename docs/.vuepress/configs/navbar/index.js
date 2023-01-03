@@ -2,10 +2,10 @@ export default [
   {
     text: '学习导航',
     children: [
-      {
-        text: "理论基础",
-        link: '/theory/'
-      },
+      // {
+      //   text: "理论基础",
+      //   link: '/theory/'
+      // },
       {
         text: "基础入门",
         link: '/start/初步了解.md'
