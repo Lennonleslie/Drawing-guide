@@ -28,8 +28,8 @@ export default {
       // 是否可折叠
       // collapsible: true,
       children: [
-        'DS王石拆单功能',
-        'CAD王石拆单功能'
+        'DS王石',
+        'CAD王石'
       ],
     },
   ],

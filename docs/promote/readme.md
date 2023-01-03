@@ -10,4 +10,6 @@
 
 大纲
 
-[DS王石拆单功能](https://wd.kodocode.cn/promote/DS%E7%8E%8B%E7%9F%B3%E6%8B%86%E5%8D%95%E5%8A%9F%E8%83%BD.html)
+[DS王石](https://wd.kodocode.cn/promote/DS%E7%8E%8B%E7%9F%B3.html)
+
+[CAD王石](https://wd.kodocode.cn/promote/CAD%E7%8E%8B%E7%9F%B3.html)
