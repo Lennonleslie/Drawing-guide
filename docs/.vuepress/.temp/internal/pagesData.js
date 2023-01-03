@@ -11,10 +11,6 @@ export const pagesData = {
   "v-43ab36db": () => import(/* webpackChunkName: "v-43ab36db" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/DS王石.html.js").then(({ data }) => data),
   // path: /promote/
   "v-c95ddb30": () => import(/* webpackChunkName: "v-c95ddb30" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/index.html.js").then(({ data }) => data),
-  // path: /theory/
-  "v-1993c2d1": () => import(/* webpackChunkName: "v-1993c2d1" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/index.html.js").then(({ data }) => data),
-  // path: /theory/%E6%95%B0%E6%8D%AE%E5%8E%9F%E7%90%86.html
-  "v-07f26f59": () => import(/* webpackChunkName: "v-07f26f59" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/数据原理.html.js").then(({ data }) => data),
   // path: /start/
   "v-d72a4774": () => import(/* webpackChunkName: "v-d72a4774" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/index.html.js").then(({ data }) => data),
   // path: /start/%E5%88%9D%E6%AD%A5%E4%BA%86%E8%A7%A3.html
@@ -23,6 +19,10 @@ export const pagesData = {
   "v-1df1bd88": () => import(/* webpackChunkName: "v-1df1bd88" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/流程简解.html.js").then(({ data }) => data),
   // path: /start/%E7%BB%93%E6%9E%84%E8%A7%A3%E6%9E%90.html
   "v-79f0d251": () => import(/* webpackChunkName: "v-79f0d251" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/结构解析.html.js").then(({ data }) => data),
+  // path: /theory/
+  "v-1993c2d1": () => import(/* webpackChunkName: "v-1993c2d1" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/index.html.js").then(({ data }) => data),
+  // path: /theory/%E6%95%B0%E6%8D%AE%E5%8E%9F%E7%90%86.html
+  "v-07f26f59": () => import(/* webpackChunkName: "v-07f26f59" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/数据原理.html.js").then(({ data }) => data),
   // path: /tool/
   "v-1559ca3e": () => import(/* webpackChunkName: "v-1559ca3e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/tool/index.html.js").then(({ data }) => data),
   // path: /tool/WattToolkit%E9%85%8D%E7%BD%AE.html
