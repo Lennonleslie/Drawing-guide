@@ -26,7 +26,7 @@ export default {
     {
       text: "进阶提升",
       // 是否可折叠
-      collapsible: true,
+      // collapsible: true,
       children: [
         '王石拆单功能'
       ],

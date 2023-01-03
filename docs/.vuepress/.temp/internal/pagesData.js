@@ -9,8 +9,6 @@ export const pagesData = {
   "v-c95ddb30": () => import(/* webpackChunkName: "v-c95ddb30" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/index.html.js").then(({ data }) => data),
   // path: /promote/%E7%8E%8B%E7%9F%B3%E6%8B%86%E5%8D%95%E5%8A%9F%E8%83%BD.html
   "v-49df66ee": () => import(/* webpackChunkName: "v-49df66ee" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/王石拆单功能.html.js").then(({ data }) => data),
-  // path: /theory/
-  "v-1993c2d1": () => import(/* webpackChunkName: "v-1993c2d1" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/index.html.js").then(({ data }) => data),
   // path: /start/
   "v-d72a4774": () => import(/* webpackChunkName: "v-d72a4774" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/index.html.js").then(({ data }) => data),
   // path: /start/%E5%88%9D%E6%AD%A5%E4%BA%86%E8%A7%A3.html
@@ -21,6 +19,8 @@ export const pagesData = {
   "v-1df1bd88": () => import(/* webpackChunkName: "v-1df1bd88" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/流程简解.html.js").then(({ data }) => data),
   // path: /start/%E7%BB%93%E6%9E%84%E8%A7%A3%E6%9E%90.html
   "v-79f0d251": () => import(/* webpackChunkName: "v-79f0d251" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/结构解析.html.js").then(({ data }) => data),
+  // path: /theory/
+  "v-1993c2d1": () => import(/* webpackChunkName: "v-1993c2d1" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/index.html.js").then(({ data }) => data),
   // path: /tool/
   "v-1559ca3e": () => import(/* webpackChunkName: "v-1559ca3e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/tool/index.html.js").then(({ data }) => data),
   // path: /404.html
