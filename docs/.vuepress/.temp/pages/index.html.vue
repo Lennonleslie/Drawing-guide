@@ -6,6 +6,9 @@
 <div class="custom-container warning"><p class="custom-container-title">WARNING</p>
 <p>图片显示需要加载，如果不能正常显示，需要刷新网页</p>
 </div>
+<div class="custom-container danger"><p class="custom-container-title">DANGER</p>
+<p>教程内或许会与企业实际产生细微差异，但大多数都相同。但尽量以企业的标准为优先。</p>
+</div>
 <hr>
 <p><strong>关于此设计指南</strong></p>
 <blockquote>
