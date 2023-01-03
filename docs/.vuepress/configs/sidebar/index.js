@@ -1,11 +1,13 @@
+// 这里是目录配置
 export default {
-  '/backend-data/': [
+  '/theory/': [
     {
-      text: "后台数据",
+      text: "理论基础",
       // 是否可折叠
       // collapsible: true,
       children: [
-        '数学逻辑',
+        '数据原理',
+        // '数学逻辑',
       ],
     },
   ],
@@ -15,7 +17,6 @@ export default {
       // 是否可折叠
       // collapsible: true,
       children: [
-        '数据原理',
         '初步了解',
         '结构解析',
         '流程简解',
@@ -28,7 +29,7 @@ export default {
       // 是否可折叠
       // collapsible: true,
       children: [
-        'DS王石',
+        // 'DS王石',
         'CAD王石'
       ],
     },

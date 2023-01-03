@@ -10,6 +10,8 @@
 
 大纲
 
-[DS王石](https://wd.kodocode.cn/promote/DS%E7%8E%8B%E7%9F%B3.html)
+<!-- [DS王石](./DS王石.md)-->
 
-[CAD王石](https://wd.kodocode.cn/promote/CAD%E7%8E%8B%E7%9F%B3.html)
+[CAD王石](./CAD王石.md)
+
+其余正在完善中
