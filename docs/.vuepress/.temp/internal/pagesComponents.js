@@ -21,12 +21,12 @@ export const pagesComponents = {
   "v-1df1bd88": defineAsyncComponent(() => import(/* webpackChunkName: "v-1df1bd88" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/流程简解.html.vue")),
   // path: /start/%E7%BB%93%E6%9E%84%E8%A7%A3%E6%9E%90.html
   "v-79f0d251": defineAsyncComponent(() => import(/* webpackChunkName: "v-79f0d251" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/结构解析.html.vue")),
+  // path: /tool/
+  "v-1559ca3e": defineAsyncComponent(() => import(/* webpackChunkName: "v-1559ca3e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/tool/index.html.vue")),
   // path: /theory/
   "v-1993c2d1": defineAsyncComponent(() => import(/* webpackChunkName: "v-1993c2d1" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/index.html.vue")),
   // path: /theory/%E6%95%B0%E6%8D%AE%E5%8E%9F%E7%90%86.html
   "v-07f26f59": defineAsyncComponent(() => import(/* webpackChunkName: "v-07f26f59" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/数据原理.html.vue")),
-  // path: /tool/
-  "v-1559ca3e": defineAsyncComponent(() => import(/* webpackChunkName: "v-1559ca3e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/tool/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/404.html.vue")),
 }
