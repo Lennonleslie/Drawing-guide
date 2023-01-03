@@ -44,23 +44,27 @@ footer: 周垚磊 | Copyright © 2019-present
 
 ---
 
-**关于此设计指南**
+## 关于此设计指南
 
 > **技巧和流程上我们尽最大努力降至最低。只是尽可能的对一个部件的统一称呼或者规范约定存在学习成本。**
 
-**其余时间**
+## 其余时间
 
 > **此教程更愿意成为一个长期词典工具。作为设计师的工具来使用。**
 
-**沟通方式**
+## 沟通方式
 
-> **有任何文章上的建议和需要沟通补充的地方可以随时与我联系。**
+> 有任何文章上的建议和需要沟通补充的地方可以随时与我联系。
 >
-><a href="mailto:KODOCODE@outlook.com">邮箱</a> 
-> 
-><a href="tencent://message/?uin=514800133&Site=&Menu=yes">QQ</a> 
-> 
-><!-- > ![微信](./picture/mycard.png) -->
-> 
->![微信](./picture/mycard.png)
+> ### <a href="mailto:KODOCODE@outlook.com">邮箱</a> 
+>
+> ### <a href="tencent://message/?uin=514800133&Site=&Menu=yes">QQ</a> 
+>
+> ### <a href="https://jq.qq.com/?_wv=1027&k=WaZBVSmB">QQ群</a> 
+>
+> ### 微信
+>
+> ![微信](./picture/mycard.png)
+>
+> <!-- > ![微信](./picture/mycard.png) -->
 

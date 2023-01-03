@@ -12,21 +12,23 @@
 <p>教程内或许会与企业实际产生细微差异，一般基础相同。但尽量以企业的标准为优先。</p>
 </div>
 <hr>
-<p><strong>关于此设计指南</strong></p>
+<h2 id="关于此设计指南" tabindex="-1"><a class="header-anchor" href="#关于此设计指南" aria-hidden="true">#</a> 关于此设计指南</h2>
 <blockquote>
 <p><strong>技巧和流程上我们尽最大努力降至最低。只是尽可能的对一个部件的统一称呼或者规范约定存在学习成本。</strong></p>
 </blockquote>
-<p><strong>其余时间</strong></p>
+<h2 id="其余时间" tabindex="-1"><a class="header-anchor" href="#其余时间" aria-hidden="true">#</a> 其余时间</h2>
 <blockquote>
 <p><strong>此教程更愿意成为一个长期词典工具。作为设计师的工具来使用。</strong></p>
 </blockquote>
-<p><strong>沟通方式</strong></p>
+<h2 id="沟通方式" tabindex="-1"><a class="header-anchor" href="#沟通方式" aria-hidden="true">#</a> 沟通方式</h2>
 <blockquote>
-<p><strong>有任何文章上的建议和需要沟通补充的地方可以随时与我联系。</strong></p>
-<p><a href="mailto:KODOCODE@outlook.com">邮箱</a></p>
-<p><a href="tencent://message/?uin=514800133&Site=&Menu=yes">QQ</a></p>
-<!-- > ![微信](./picture/mycard.png) -->
+<p>有任何文章上的建议和需要沟通补充的地方可以随时与我联系。</p>
+<h3 id="邮箱" tabindex="-1"><a class="header-anchor" href="#邮箱" aria-hidden="true">#</a> <a href="mailto:KODOCODE@outlook.com">邮箱</a></h3>
+<h3 id="qq" tabindex="-1"><a class="header-anchor" href="#qq" aria-hidden="true">#</a> <a href="tencent://message/?uin=514800133&Site=&Menu=yes">QQ</a></h3>
+<h3 id="qq群" tabindex="-1"><a class="header-anchor" href="#qq群" aria-hidden="true">#</a> <a href="https://jq.qq.com/?_wv=1027&k=WaZBVSmB">QQ群</a></h3>
+<h3 id="微信" tabindex="-1"><a class="header-anchor" href="#微信" aria-hidden="true">#</a> 微信</h3>
 <p><img src="@source/picture/mycard.png" alt="微信"></p>
+<!-- > ![微信](./picture/mycard.png) -->
 </blockquote>
 </div></template>
 

@@ -22,16 +22,15 @@ export default [
     children: [
       {
         text: "QQ/TIM:  514800133",
-        link: '/'
-        // link:'tencent://message/?uin=514800133&Site=&Menu=yes'
-      },
-      {
-        text: "发送邮件",
-        link: 'mailto:KODOCODE@outlook.com'
+        link:'/#qq'
       },
       {
         text: "KODOCODE@outlook.com",
         link: 'mailto:KODOCODE@outlook.com'
+      },      
+      {
+        text: "微信",
+        link: '/#微信'
       },
     ],
   },
