@@ -29,11 +29,13 @@ footer: 周垚磊 | Copyright © 2019-present
 
 ::: tip
 我们非常欢迎你们提出意见和各种问题，请不要见外。<br>
-可以通过右上角联系作者，或页面下方联系方式！
+可以通过右上角联系作者，或页面下方联系方式！<br>
 :::
 
 ::: warning
-图片显示需要加载，如果不能正常显示，需要刷新网页
+图片显示需要加载，如果不能正常显示，需要刷新网页<br>
+如果多次加载都不能正常加载，那么推荐使用[watt toolkit](https://steampp.net/)优化网络环境<br>
+[watt toolkit优化选项](./tool/WattToolkit配置.md)
 :::
 
 ::: danger

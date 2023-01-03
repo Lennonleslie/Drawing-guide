@@ -36,6 +36,8 @@
 
 [watt toolkit](https://steampp.net/)
 
+[watt toolkit配置](WattToolkit配置.md)
+
 ---
 
 ### 驱动管理工具
