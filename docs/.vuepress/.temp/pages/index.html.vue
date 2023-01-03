@@ -3,9 +3,9 @@
 <p>我们非常欢迎你们提出意见和各种问题，请不要见外。
 可以通过右上角联系作者，或页面下方联系方式！</p>
 </div>
-<p>:::
-图片显示需要加载，如果不能正常显示，需要刷新网页
-:::</p>
+<div class="custom-container warning"><p class="custom-container-title">WARNING</p>
+<p>图片显示需要加载，如果不能正常显示，需要刷新网页</p>
+</div>
 <hr>
 <p><strong>关于此设计指南</strong></p>
 <blockquote>
