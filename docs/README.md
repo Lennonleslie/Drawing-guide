@@ -6,9 +6,9 @@ actions:
   # - text: 基础入门
   #   link: /start/
   #   type: primary
-  - text: 理论基础
-    link: /stheory/
-    type: secondary
+  # - text: 理论基础
+  #   link: /stheory/
+  #   type: secondary
   - text: 基础入门
     link: /start/初步了解.md
     type: secondary
