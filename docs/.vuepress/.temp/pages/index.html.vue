@@ -1,13 +1,13 @@
 <template><div><h1 id="你好-设计师" tabindex="-1"><a class="header-anchor" href="#你好-设计师" aria-hidden="true">#</a> 你好！设计师</h1>
 <div class="custom-container tip"><p class="custom-container-title">TIP</p>
-<p>我们非常欢迎你们提出意见和各种问题，请不要见外。
+<p>我们非常欢迎你们提出意见和各种问题，请不要见外。<br>
 可以通过右上角联系作者，或页面下方联系方式！</p>
 </div>
 <div class="custom-container warning"><p class="custom-container-title">WARNING</p>
 <p>图片显示需要加载，如果不能正常显示，需要刷新网页</p>
 </div>
 <div class="custom-container danger"><p class="custom-container-title">DANGER</p>
-<p>教程内或许会与企业实际产生细微差异，但大多数都相同。但尽量以企业的标准为优先。</p>
+<p>教程内或许会与企业实际产生细微差异，一般基础相同。但尽量以企业的标准为优先。</p>
 </div>
 <hr>
 <p><strong>关于此设计指南</strong></p>
