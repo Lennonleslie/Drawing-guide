@@ -23,6 +23,10 @@ export default [
       {
         text: "QQ/TIM:  514800133",
         link:'/#qq'
+      },      
+      {
+        text: "QQ/TIM群:  676925005",
+        link:'/#qq群'
       },
       {
         text: "KODOCODE@outlook.com",
