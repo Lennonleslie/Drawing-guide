@@ -24,7 +24,7 @@
 <p><a href="mailto:KODOCODE@outlook.com">邮箱</a></p>
 <p><a href="tencent://message/?uin=514800133&Site=&Menu=yes">QQ</a></p>
 <!-- > ![微信](./picture/mycard.png) -->
-<p><img src="http://tva1.sinaimg.cn/large/40a75943gy1h9ew28ghxlj20fr05swgq.jpg" alt="微信"></p>
+<p><img src="@source/picture/mycard.png" alt="微信"></p>
 </blockquote>
 </div></template>
 
