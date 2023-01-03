@@ -12,7 +12,7 @@ actions:
   - text: 基础入门
     link: /start/初步了解.md
     type: secondary
-  - text: 高手进阶
+  - text: 进阶提升
     link: /promote/
     type: secondary
 features: 
@@ -29,9 +29,10 @@ footer: 周垚磊 | Copyright © 2019-present
 
 ::: tip
 我们非常欢迎你们提出意见和各种问题，请不要见外。
-
 可以通过右上角联系作者，或页面下方联系方式！
+:::
 
+::: 
 图片显示需要加载，如果不能正常显示，需要刷新网页
 :::
 
