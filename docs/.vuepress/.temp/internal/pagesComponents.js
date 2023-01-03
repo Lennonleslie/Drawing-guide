@@ -7,10 +7,10 @@ export const pagesComponents = {
   "v-79f8b8a2": defineAsyncComponent(() => import(/* webpackChunkName: "v-79f8b8a2" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/backend-data/vuepressMarkdown语法.html.vue")),
   // path: /backend-data/%E6%95%B0%E5%AD%A6%E9%80%BB%E8%BE%91.html
   "v-51fa551b": defineAsyncComponent(() => import(/* webpackChunkName: "v-51fa551b" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/backend-data/数学逻辑.html.vue")),
+  // path: /promote/DS%E7%8E%8B%E7%9F%B3%E6%8B%86%E5%8D%95%E5%8A%9F%E8%83%BD.html
+  "v-15adcecc": defineAsyncComponent(() => import(/* webpackChunkName: "v-15adcecc" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/DS王石拆单功能.html.vue")),
   // path: /promote/
   "v-c95ddb30": defineAsyncComponent(() => import(/* webpackChunkName: "v-c95ddb30" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/index.html.vue")),
-  // path: /promote/%E7%8E%8B%E7%9F%B3%E6%8B%86%E5%8D%95%E5%8A%9F%E8%83%BD.html
-  "v-49df66ee": defineAsyncComponent(() => import(/* webpackChunkName: "v-49df66ee" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/王石拆单功能.html.vue")),
   // path: /start/
   "v-d72a4774": defineAsyncComponent(() => import(/* webpackChunkName: "v-d72a4774" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/index.html.vue")),
   // path: /start/%E5%88%9D%E6%AD%A5%E4%BA%86%E8%A7%A3.html
