@@ -49,9 +49,14 @@ export default [
         text: "DS王石",
         link: 'https://ds.wongshek.cn/'
       },
+      {
+        text: "CAD王石",
+        link: 'https://cad.wongshek.cn/'
+      },
     ],
   }
-  /*       // 嵌套 Group - 最大深度为 2
+  /*
+         // 嵌套 Group - 最大深度为 2
         {
           text: 'Group',
           children: [
@@ -79,5 +84,6 @@ export default [
               activeMatch: '^/foo/',
             },
           ],
-        }, */
+        }, 
+        */
 ]

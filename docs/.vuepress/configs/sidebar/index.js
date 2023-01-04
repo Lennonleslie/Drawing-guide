@@ -6,8 +6,15 @@ export default {
       // 是否可折叠
       // collapsible: true,
       children: [
-        '数据原理',
-        // '数学逻辑',
+        '维度基础',
+        '参数说明',
+      ],
+      text: "家具基础",
+      // 是否可折叠
+      // collapsible: true,
+      children: [
+        '信息基础',
+        '参数说明',
       ],
     },
   ],
@@ -38,21 +45,21 @@ export default {
   '/tool/': [
     {
       text: "工具",
-      // collapsible: true,
-      // children: [
-      //   {
-      //     text: "电脑工具",
-      //     children: [
-      //       "常用电脑工具",
-      //       "设计常用工具",
-      //     ],
-      //     text: "测量工具",
-      //     children: [
-      //       "常用电脑工具",
-      //       "设计常用工具",
-      //     ],
-      //   },
-      // ],
+      collapsible: true,
+      children: [
+        {
+          text: "电脑工具",
+          children: [
+            "常用电脑工具",
+            "设计常用工具",
+          ],
+          text: "测量工具",
+          children: [
+            "常用电脑工具",
+            "设计常用工具",
+          ],
+        },
+      ],
     },
   ],
 };
