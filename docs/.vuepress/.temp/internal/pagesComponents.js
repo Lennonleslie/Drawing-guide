@@ -13,12 +13,6 @@ export const pagesComponents = {
   "v-43ab36db": defineAsyncComponent(() => import(/* webpackChunkName: "v-43ab36db" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/DS王石.html.vue")),
   // path: /promote/
   "v-c95ddb30": defineAsyncComponent(() => import(/* webpackChunkName: "v-c95ddb30" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/index.html.vue")),
-  // path: /theory/
-  "v-1993c2d1": defineAsyncComponent(() => import(/* webpackChunkName: "v-1993c2d1" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/index.html.vue")),
-  // path: /theory/%E5%8F%82%E6%95%B0%E8%AF%B4%E6%98%8E.html
-  "v-5f26dd22": defineAsyncComponent(() => import(/* webpackChunkName: "v-5f26dd22" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/参数说明.html.vue")),
-  // path: /theory/%E7%BB%B4%E5%BA%A6%E5%9F%BA%E7%A1%80.html
-  "v-4348916e": defineAsyncComponent(() => import(/* webpackChunkName: "v-4348916e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/维度基础.html.vue")),
   // path: /start/
   "v-d72a4774": defineAsyncComponent(() => import(/* webpackChunkName: "v-d72a4774" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/index.html.vue")),
   // path: /start/%E5%88%9D%E6%AD%A5%E4%BA%86%E8%A7%A3.html
@@ -31,8 +25,24 @@ export const pagesComponents = {
   "v-1559ca3e": defineAsyncComponent(() => import(/* webpackChunkName: "v-1559ca3e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/tool/index.html.vue")),
   // path: /tool/WattToolkit%E9%85%8D%E7%BD%AE.html
   "v-304f3b92": defineAsyncComponent(() => import(/* webpackChunkName: "v-304f3b92" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/tool/WattToolkit配置.html.vue")),
+  // path: /theory/
+  "v-1993c2d1": defineAsyncComponent(() => import(/* webpackChunkName: "v-1993c2d1" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/index.html.vue")),
+  // path: /theory/%E5%85%A5%E6%88%B7%E7%B3%BB%E5%88%97.html
+  "v-1b0b0a7c": defineAsyncComponent(() => import(/* webpackChunkName: "v-1b0b0a7c" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/入户系列.html.vue")),
+  // path: /theory/%E5%8D%A7%E5%AE%A4%E7%B3%BB%E5%88%97.html
+  "v-63f77214": defineAsyncComponent(() => import(/* webpackChunkName: "v-63f77214" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/卧室系列.html.vue")),
+  // path: /theory/%E5%8E%A8%E5%8D%AB%E7%B3%BB%E5%88%97.html
+  "v-50f28f20": defineAsyncComponent(() => import(/* webpackChunkName: "v-50f28f20" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/厨卫系列.html.vue")),
+  // path: /theory/%E5%8F%82%E6%95%B0%E8%AF%B4%E6%98%8E.html
+  "v-5f26dd22": defineAsyncComponent(() => import(/* webpackChunkName: "v-5f26dd22" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/参数说明.html.vue")),
+  // path: /theory/%E5%AE%A2%E9%A4%90%E5%8E%85%E7%B3%BB%E5%88%97.html
+  "v-77c2bb93": defineAsyncComponent(() => import(/* webpackChunkName: "v-77c2bb93" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/客餐厅系列.html.vue")),
+  // path: /theory/%E6%8A%A4%E5%A2%99%E9%97%A8%E7%B3%BB%E5%88%97.html
+  "v-c8ff8362": defineAsyncComponent(() => import(/* webpackChunkName: "v-c8ff8362" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/护墙门系列.html.vue")),
+  // path: /theory/%E7%BB%B4%E5%BA%A6%E5%9F%BA%E7%A1%80.html
+  "v-4348916e": defineAsyncComponent(() => import(/* webpackChunkName: "v-4348916e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/维度基础.html.vue")),
+  // path: /theory/%E8%A1%A3%E5%B8%BD%E9%97%B4%E7%B3%BB%E5%88%97.html
+  "v-5aef6052": defineAsyncComponent(() => import(/* webpackChunkName: "v-5aef6052" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/衣帽间系列.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/404.html.vue")),
-  // path: /theory/%E5%AE%B6%E5%85%B7%E5%9F%BA%E7%A1%80.html
-  "v-5e46b9a8": defineAsyncComponent(() => import(/* webpackChunkName: "v-5e46b9a8" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/家具基础.html.vue")),
 }
