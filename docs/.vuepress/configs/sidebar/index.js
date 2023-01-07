@@ -6,21 +6,33 @@ export default {
       // 是否可折叠
       // collapsible: true,
       children: [
-        '维度基础',
-        '参数说明',
+        '/theory/维度基础',
+        '/theory/参数说明',
       ],
     },
     {
-      text: "家具基础",
+      text: "柜体分类",
       // 是否可折叠
       // collapsible: true,
       children: [
-        '卧室系列',
-        '衣帽间系列',
-        '厨卫系列',
-        '客餐厅系列',
-        '入户系列',
-        '护墙门系列',
+        '/theory/cabinet/衣柜',
+        '/theory/cabinet/功能柜',
+        '/theory/cabinet/橱柜',
+        '/theory/cabinet/护墙',
+        '/theory/cabinet/门',
+      ],
+    },
+    {
+      text: "户型柜体",
+      // 是否可折叠
+      // collapsible: true,
+      children: [
+        '/theory/room/卧室系列',
+        '/theory/room/衣帽间系列',
+        '/theory/room/厨卫系列',
+        '/theory/room/客餐厅系列',
+        '/theory/room/入户系列',
+        '/theory/room/护墙门系列',
       ],
     },
   ],
