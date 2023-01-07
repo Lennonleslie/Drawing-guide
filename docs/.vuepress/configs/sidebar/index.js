@@ -11,18 +11,6 @@ export default {
       ],
     },
     {
-      text: "柜体分类",
-      // 是否可折叠
-      // collapsible: true,
-      children: [
-        '/theory/cabinet/衣柜',
-        '/theory/cabinet/功能柜',
-        '/theory/cabinet/橱柜',
-        '/theory/cabinet/护墙',
-        '/theory/cabinet/门',
-      ],
-    },
-    {
       text: "户型柜体",
       // 是否可折叠
       // collapsible: true,
@@ -42,9 +30,21 @@ export default {
       // 是否可折叠
       // collapsible: true,
       children: [
-        '初步了解',
-        '结构解析',
-        '流程简解',
+        '/start/初步了解',
+        '/start/结构解析',
+        '/start/流程简解',
+      ],
+    },
+    {
+      text: "柜体说明",
+      // 是否可折叠
+      // collapsible: true,
+      children: [
+        '/start/cabinet/衣柜',
+        '/start/cabinet/功能柜',
+        '/start/cabinet/橱柜',
+        '/start/cabinet/护墙',
+        '/start/cabinet/门',
       ],
     },
   ],

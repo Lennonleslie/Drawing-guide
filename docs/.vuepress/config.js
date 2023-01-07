@@ -9,6 +9,7 @@ import navbar from "./configs/navbar";
 import sidebar from "./configs/sidebar";
 
 export default defineUserConfig({
+
     lang: 'zh-CN',
 
     title: '科道科技指南',

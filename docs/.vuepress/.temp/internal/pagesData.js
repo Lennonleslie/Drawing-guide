@@ -29,16 +29,16 @@ export const pagesData = {
   "v-5f26dd22": () => import(/* webpackChunkName: "v-5f26dd22" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/参数说明.html.js").then(({ data }) => data),
   // path: /theory/%E7%BB%B4%E5%BA%A6%E5%9F%BA%E7%A1%80.html
   "v-4348916e": () => import(/* webpackChunkName: "v-4348916e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/维度基础.html.js").then(({ data }) => data),
-  // path: /theory/cabinet/%E5%8A%9F%E8%83%BD%E6%9F%9C.html
-  "v-0b9460f4": () => import(/* webpackChunkName: "v-0b9460f4" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/cabinet/功能柜.html.js").then(({ data }) => data),
-  // path: /theory/cabinet/%E6%8A%A4%E5%A2%99.html
-  "v-10b4c5ed": () => import(/* webpackChunkName: "v-10b4c5ed" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/cabinet/护墙.html.js").then(({ data }) => data),
-  // path: /theory/cabinet/%E6%A9%B1%E6%9F%9C.html
-  "v-06f2028b": () => import(/* webpackChunkName: "v-06f2028b" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/cabinet/橱柜.html.js").then(({ data }) => data),
-  // path: /theory/cabinet/%E8%A1%A3%E6%9F%9C.html
-  "v-648c5990": () => import(/* webpackChunkName: "v-648c5990" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/cabinet/衣柜.html.js").then(({ data }) => data),
-  // path: /theory/cabinet/%E9%97%A8.html
-  "v-de457422": () => import(/* webpackChunkName: "v-de457422" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/cabinet/门.html.js").then(({ data }) => data),
+  // path: /start/cabinet/%E5%8A%9F%E8%83%BD%E6%9F%9C.html
+  "v-e65bbd2e": () => import(/* webpackChunkName: "v-e65bbd2e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/cabinet/功能柜.html.js").then(({ data }) => data),
+  // path: /start/cabinet/%E6%8A%A4%E5%A2%99.html
+  "v-21708450": () => import(/* webpackChunkName: "v-21708450" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/cabinet/护墙.html.js").then(({ data }) => data),
+  // path: /start/cabinet/%E6%A9%B1%E6%9F%9C.html
+  "v-34f60b14": () => import(/* webpackChunkName: "v-34f60b14" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/cabinet/橱柜.html.js").then(({ data }) => data),
+  // path: /start/cabinet/%E8%A1%A3%E6%9F%9C.html
+  "v-a76669ba": () => import(/* webpackChunkName: "v-a76669ba" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/cabinet/衣柜.html.js").then(({ data }) => data),
+  // path: /start/cabinet/%E9%97%A8.html
+  "v-0116a9a4": () => import(/* webpackChunkName: "v-0116a9a4" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/cabinet/门.html.js").then(({ data }) => data),
   // path: /theory/room/%E5%85%A5%E6%88%B7%E7%B3%BB%E5%88%97.html
   "v-7d6ca9ec": () => import(/* webpackChunkName: "v-7d6ca9ec" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/room/入户系列.html.js").then(({ data }) => data),
   // path: /theory/room/%E5%8D%A7%E5%AE%A4%E7%B3%BB%E5%88%97.html
