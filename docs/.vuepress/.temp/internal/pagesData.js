@@ -19,16 +19,16 @@ export const pagesData = {
   "v-1df1bd88": () => import(/* webpackChunkName: "v-1df1bd88" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/流程简解.html.js").then(({ data }) => data),
   // path: /start/%E7%BB%93%E6%9E%84%E8%A7%A3%E6%9E%90.html
   "v-79f0d251": () => import(/* webpackChunkName: "v-79f0d251" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/结构解析.html.js").then(({ data }) => data),
-  // path: /tool/
-  "v-1559ca3e": () => import(/* webpackChunkName: "v-1559ca3e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/tool/index.html.js").then(({ data }) => data),
-  // path: /tool/WattToolkit%E9%85%8D%E7%BD%AE.html
-  "v-304f3b92": () => import(/* webpackChunkName: "v-304f3b92" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/tool/WattToolkit配置.html.js").then(({ data }) => data),
   // path: /theory/
   "v-1993c2d1": () => import(/* webpackChunkName: "v-1993c2d1" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/index.html.js").then(({ data }) => data),
   // path: /theory/%E5%8F%82%E6%95%B0%E8%AF%B4%E6%98%8E.html
   "v-5f26dd22": () => import(/* webpackChunkName: "v-5f26dd22" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/参数说明.html.js").then(({ data }) => data),
   // path: /theory/%E7%BB%B4%E5%BA%A6%E5%9F%BA%E7%A1%80.html
   "v-4348916e": () => import(/* webpackChunkName: "v-4348916e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/维度基础.html.js").then(({ data }) => data),
+  // path: /tool/
+  "v-1559ca3e": () => import(/* webpackChunkName: "v-1559ca3e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/tool/index.html.js").then(({ data }) => data),
+  // path: /tool/WattToolkit%E9%85%8D%E7%BD%AE.html
+  "v-304f3b92": () => import(/* webpackChunkName: "v-304f3b92" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/tool/WattToolkit配置.html.js").then(({ data }) => data),
   // path: /start/cabinet/%E5%8A%9F%E8%83%BD%E6%9F%9C.html
   "v-e65bbd2e": () => import(/* webpackChunkName: "v-e65bbd2e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/cabinet/功能柜.html.js").then(({ data }) => data),
   // path: /start/cabinet/%E6%8A%A4%E5%A2%99.html
