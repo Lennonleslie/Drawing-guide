@@ -59,25 +59,37 @@ export default {
       ],
     },
   ],
+  // '/tool/': [
+  //   {
+  //     text: "工具",
+  //     collapsible: true,
+  //     children: [
+  //       {
+  //         text: "电脑工具",
+  //         children: [
+  //           "常用电脑工具",
+  //           "设计常用工具",
+  //         ],
+  //       },
+  //     ],
+  //   },
+  // ], 
 
-  '/tool/': [
-    // {
-    //   text: "工具",
-    //   collapsible: true,
-    //   children: [
-    //     {
-    //       text: "电脑工具",
-    //       children: [
-    //         "常用电脑工具",
-    //         "设计常用工具",
-    //       ],
-    //       text: "测量工具",
-    //       children: [
-    //         "常用电脑工具",
-    //         "设计常用工具",
-    //       ],
-    //     },
-    //   ],
-    // },
+  '/NBSJ/': [
+    {
+      text: "主页",
+      collapsible: true,
+      children: [
+        "/NBSJ/",
+      ],
+    },
+    {
+      text: "酒格",
+      collapsible: true,
+      children: [
+        "/NBSJ/JG/菱形酒格",
+        "/NBSJ/JG/X形酒格",
+      ],
+    },
   ],
 };
