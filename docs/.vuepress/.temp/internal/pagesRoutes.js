@@ -12,6 +12,7 @@ export const pagesRoutes = [
   ["v-79f0d251","/start/%E7%BB%93%E6%9E%84%E8%A7%A3%E6%9E%90.html",{"title":"结构解析"},["/start/结构解析.html","/start/%E7%BB%93%E6%9E%84%E8%A7%A3%E6%9E%90","/start/结构解析.md","/start/%E7%BB%93%E6%9E%84%E8%A7%A3%E6%9E%90.md"]],
   ["v-1993c2d1","/theory/",{"title":""},["/theory/index.html","/theory/readme.md"]],
   ["v-5f26dd22","/theory/%E5%8F%82%E6%95%B0%E8%AF%B4%E6%98%8E.html",{"title":"参数说明"},["/theory/参数说明.html","/theory/%E5%8F%82%E6%95%B0%E8%AF%B4%E6%98%8E","/theory/参数说明.md","/theory/%E5%8F%82%E6%95%B0%E8%AF%B4%E6%98%8E.md"]],
+  ["v-5adea2e0","/theory/%E6%9D%BF%E4%BB%B6%E8%AF%B4%E6%98%8E.html",{"title":"板件基础"},["/theory/板件说明.html","/theory/%E6%9D%BF%E4%BB%B6%E8%AF%B4%E6%98%8E","/theory/板件说明.md","/theory/%E6%9D%BF%E4%BB%B6%E8%AF%B4%E6%98%8E.md"]],
   ["v-4348916e","/theory/%E7%BB%B4%E5%BA%A6%E5%9F%BA%E7%A1%80.html",{"title":"维度基础"},["/theory/维度基础.html","/theory/%E7%BB%B4%E5%BA%A6%E5%9F%BA%E7%A1%80","/theory/维度基础.md","/theory/%E7%BB%B4%E5%BA%A6%E5%9F%BA%E7%A1%80.md"]],
   ["v-1559ca3e","/tool/",{"title":""},["/tool/index.html","/tool/readme.md"]],
   ["v-304f3b92","/tool/WattToolkit%E9%85%8D%E7%BD%AE.html",{"title":"Watt Toolkit配置"},["/tool/WattToolkit配置.html","/tool/WattToolkit%E9%85%8D%E7%BD%AE","/tool/WattToolkit配置.md","/tool/WattToolkit%E9%85%8D%E7%BD%AE.md"]],

@@ -27,6 +27,8 @@ export const pagesComponents = {
   "v-1993c2d1": defineAsyncComponent(() => import(/* webpackChunkName: "v-1993c2d1" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/index.html.vue")),
   // path: /theory/%E5%8F%82%E6%95%B0%E8%AF%B4%E6%98%8E.html
   "v-5f26dd22": defineAsyncComponent(() => import(/* webpackChunkName: "v-5f26dd22" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/参数说明.html.vue")),
+  // path: /theory/%E6%9D%BF%E4%BB%B6%E8%AF%B4%E6%98%8E.html
+  "v-5adea2e0": defineAsyncComponent(() => import(/* webpackChunkName: "v-5adea2e0" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/板件说明.html.vue")),
   // path: /theory/%E7%BB%B4%E5%BA%A6%E5%9F%BA%E7%A1%80.html
   "v-4348916e": defineAsyncComponent(() => import(/* webpackChunkName: "v-4348916e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/维度基础.html.vue")),
   // path: /tool/

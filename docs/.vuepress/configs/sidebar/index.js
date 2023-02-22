@@ -7,6 +7,7 @@ export default {
       // collapsible: true,
       children: [
         '/theory/维度基础',
+        '/theory/板件说明',
         '/theory/参数说明',
       ],
     },
