@@ -13,16 +13,22 @@ export const pagesData = {
   "v-43ab36db": () => import(/* webpackChunkName: "v-43ab36db" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/DS王石.html.js").then(({ data }) => data),
   // path: /promote/
   "v-c95ddb30": () => import(/* webpackChunkName: "v-c95ddb30" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/index.html.js").then(({ data }) => data),
+  // path: /start/CAD%E6%8B%86%E5%8D%95%E5%90%8E%E5%8F%B0.html
+  "v-357acc14": () => import(/* webpackChunkName: "v-357acc14" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/CAD拆单后台.html.js").then(({ data }) => data),
+  // path: /start/DS%E6%8B%86%E5%8D%95%E5%90%8E%E5%8F%B0.html
+  "v-6f5fec02": () => import(/* webpackChunkName: "v-6f5fec02" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/DS拆单后台.html.js").then(({ data }) => data),
   // path: /start/
   "v-d72a4774": () => import(/* webpackChunkName: "v-d72a4774" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/index.html.js").then(({ data }) => data),
   // path: /start/%E5%88%9D%E6%AD%A5%E4%BA%86%E8%A7%A3.html
   "v-e45960aa": () => import(/* webpackChunkName: "v-e45960aa" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/初步了解.html.js").then(({ data }) => data),
-  // path: /start/%E6%8B%86%E5%8D%95%E8%AF%A6%E8%A7%A3.html
-  "v-528bc42c": () => import(/* webpackChunkName: "v-528bc42c" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/拆单详解.html.js").then(({ data }) => data),
   // path: /start/%E6%B5%81%E7%A8%8B%E7%AE%80%E8%A7%A3.html
   "v-1df1bd88": () => import(/* webpackChunkName: "v-1df1bd88" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/流程简解.html.js").then(({ data }) => data),
   // path: /start/%E7%BB%93%E6%9E%84%E8%A7%A3%E6%9E%90.html
   "v-79f0d251": () => import(/* webpackChunkName: "v-79f0d251" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/结构解析.html.js").then(({ data }) => data),
+  // path: /tool/
+  "v-1559ca3e": () => import(/* webpackChunkName: "v-1559ca3e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/tool/index.html.js").then(({ data }) => data),
+  // path: /tool/WattToolkit%E9%85%8D%E7%BD%AE.html
+  "v-304f3b92": () => import(/* webpackChunkName: "v-304f3b92" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/tool/WattToolkit配置.html.js").then(({ data }) => data),
   // path: /theory/
   "v-1993c2d1": () => import(/* webpackChunkName: "v-1993c2d1" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/index.html.js").then(({ data }) => data),
   // path: /theory/%E5%8F%82%E6%95%B0%E8%AF%B4%E6%98%8E.html
@@ -31,10 +37,6 @@ export const pagesData = {
   "v-5adea2e0": () => import(/* webpackChunkName: "v-5adea2e0" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/板件说明.html.js").then(({ data }) => data),
   // path: /theory/%E7%BB%B4%E5%BA%A6%E5%9F%BA%E7%A1%80.html
   "v-4348916e": () => import(/* webpackChunkName: "v-4348916e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/theory/维度基础.html.js").then(({ data }) => data),
-  // path: /tool/
-  "v-1559ca3e": () => import(/* webpackChunkName: "v-1559ca3e" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/tool/index.html.js").then(({ data }) => data),
-  // path: /tool/WattToolkit%E9%85%8D%E7%BD%AE.html
-  "v-304f3b92": () => import(/* webpackChunkName: "v-304f3b92" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/tool/WattToolkit配置.html.js").then(({ data }) => data),
   // path: /NBSJ/JG/
   "v-9b2940f2": () => import(/* webpackChunkName: "v-9b2940f2" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/NBSJ/JG/index.html.js").then(({ data }) => data),
   // path: /NBSJ/JG/X%E5%BD%A2%E9%85%92%E6%A0%BC.html

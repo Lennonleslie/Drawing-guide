@@ -34,7 +34,7 @@ export default {
         '/start/初步了解',
         '/start/结构解析',
         '/start/流程简解',
-        '/start/拆单详解',
+        '/start/CAD拆单后台',
       ],
     },
     {
