@@ -8,6 +8,7 @@ export const pagesRoutes = [
   ["v-c95ddb30","/promote/",{"title":""},["/promote/index.html","/promote/readme.md"]],
   ["v-d72a4774","/start/",{"title":""},["/start/index.html","/start/readme.md"]],
   ["v-e45960aa","/start/%E5%88%9D%E6%AD%A5%E4%BA%86%E8%A7%A3.html",{"title":"初步了解"},["/start/初步了解.html","/start/%E5%88%9D%E6%AD%A5%E4%BA%86%E8%A7%A3","/start/初步了解.md","/start/%E5%88%9D%E6%AD%A5%E4%BA%86%E8%A7%A3.md"]],
+  ["v-528bc42c","/start/%E6%8B%86%E5%8D%95%E8%AF%A6%E8%A7%A3.html",{"title":"拆单详解"},["/start/拆单详解.html","/start/%E6%8B%86%E5%8D%95%E8%AF%A6%E8%A7%A3","/start/拆单详解.md","/start/%E6%8B%86%E5%8D%95%E8%AF%A6%E8%A7%A3.md"]],
   ["v-1df1bd88","/start/%E6%B5%81%E7%A8%8B%E7%AE%80%E8%A7%A3.html",{"title":"流程简解"},["/start/流程简解.html","/start/%E6%B5%81%E7%A8%8B%E7%AE%80%E8%A7%A3","/start/流程简解.md","/start/%E6%B5%81%E7%A8%8B%E7%AE%80%E8%A7%A3.md"]],
   ["v-79f0d251","/start/%E7%BB%93%E6%9E%84%E8%A7%A3%E6%9E%90.html",{"title":"结构解析"},["/start/结构解析.html","/start/%E7%BB%93%E6%9E%84%E8%A7%A3%E6%9E%90","/start/结构解析.md","/start/%E7%BB%93%E6%9E%84%E8%A7%A3%E6%9E%90.md"]],
   ["v-1993c2d1","/theory/",{"title":""},["/theory/index.html","/theory/readme.md"]],

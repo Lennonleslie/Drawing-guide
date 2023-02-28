@@ -19,6 +19,8 @@ export const pagesComponents = {
   "v-d72a4774": defineAsyncComponent(() => import(/* webpackChunkName: "v-d72a4774" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/index.html.vue")),
   // path: /start/%E5%88%9D%E6%AD%A5%E4%BA%86%E8%A7%A3.html
   "v-e45960aa": defineAsyncComponent(() => import(/* webpackChunkName: "v-e45960aa" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/初步了解.html.vue")),
+  // path: /start/%E6%8B%86%E5%8D%95%E8%AF%A6%E8%A7%A3.html
+  "v-528bc42c": defineAsyncComponent(() => import(/* webpackChunkName: "v-528bc42c" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/拆单详解.html.vue")),
   // path: /start/%E6%B5%81%E7%A8%8B%E7%AE%80%E8%A7%A3.html
   "v-1df1bd88": defineAsyncComponent(() => import(/* webpackChunkName: "v-1df1bd88" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/流程简解.html.vue")),
   // path: /start/%E7%BB%93%E6%9E%84%E8%A7%A3%E6%9E%90.html
