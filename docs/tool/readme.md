@@ -6,6 +6,18 @@
 
 协同办公：[石墨文档](https://shimo.im/)
 
+下载器(付费应用)：[IDM](https://www.internetdownloadmanager.com/)
+
+开源CAD：[libreCAD](https://librecad.org/)
+
+开源OFFICE：[libreOFFICE](https://www.libreoffice.org/)
+
+截图贴图：[snipaste](https://zh.snipaste.com/)
+
+桌面整理1：[fences](https://www.stardock.com/products/fences/)
+
+桌面整理2：[酷呆桌面](https://www.coodesker.com/)
+
 ---
 
 ### 文件管理类

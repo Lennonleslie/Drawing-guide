@@ -5,14 +5,14 @@ export const pagesData = {
   "v-79f8b8a2": () => import(/* webpackChunkName: "v-79f8b8a2" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/backend-data/vuepressMarkdown语法.html.js").then(({ data }) => data),
   // path: /backend-data/%E6%95%B0%E5%AD%A6%E9%80%BB%E8%BE%91.html
   "v-51fa551b": () => import(/* webpackChunkName: "v-51fa551b" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/backend-data/数学逻辑.html.js").then(({ data }) => data),
+  // path: /NBSJ/
+  "v-132d6b2b": () => import(/* webpackChunkName: "v-132d6b2b" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/NBSJ/index.html.js").then(({ data }) => data),
   // path: /promote/CAD%E7%8E%8B%E7%9F%B3.html
   "v-79201fb4": () => import(/* webpackChunkName: "v-79201fb4" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/CAD王石.html.js").then(({ data }) => data),
   // path: /promote/DS%E7%8E%8B%E7%9F%B3.html
   "v-43ab36db": () => import(/* webpackChunkName: "v-43ab36db" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/DS王石.html.js").then(({ data }) => data),
   // path: /promote/
   "v-c95ddb30": () => import(/* webpackChunkName: "v-c95ddb30" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/promote/index.html.js").then(({ data }) => data),
-  // path: /NBSJ/
-  "v-132d6b2b": () => import(/* webpackChunkName: "v-132d6b2b" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/NBSJ/index.html.js").then(({ data }) => data),
   // path: /start/CAD%E6%8B%86%E5%8D%95%E5%90%8E%E5%8F%B0.html
   "v-357acc14": () => import(/* webpackChunkName: "v-357acc14" */"E:/GIT/Drawingguide/docs/.vuepress/.temp/pages/start/CAD拆单后台.html.js").then(({ data }) => data),
   // path: /start/DS%E6%8B%86%E5%8D%95%E5%90%8E%E5%8F%B0.html
