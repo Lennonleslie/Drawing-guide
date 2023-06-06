@@ -93,5 +93,12 @@ export default {
         "/NBSJ/JG/X形酒格",
       ],
     },
+    {
+      text: "免拉手参数",
+      collapsible: true,
+      children: [
+        "/NBSJ/QRSLS/嵌入式拉手",
+      ],
+    },
   ],
 };
