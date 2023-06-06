@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2c7fda3e","path":"/NBSJ/QRSLS/","title":"简介","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1686074321000,"contributors":[{"name":"lennonleslie","email":"lennonleslie@hotmail.com","commits":1}]},"filePathRelative":"NBSJ/QRSLS/readme.md"}');export{e as data};
